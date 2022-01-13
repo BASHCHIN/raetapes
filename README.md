@@ -6,7 +6,7 @@
 <a href="https://open.spotify.com/playlist/5O50NWzN6Wg0APnkJommVP?si=32438f3e83cc486f&nd=1"><img src="https://i.scdn.co/image/ab67706c0000bebbd646c6157727ccaffdf88fe3" height="250" width="250"></a> <div align="left">falling</div>
 
 
-<a href="https://open.spotify.com/playlist/2O65CqWRBxEybS3hJV8VlI?si=b26543a913c2449f"><img src="https://i.scdn.co/image/ab67706c0000bebb12ea40fcae6fd47215e4140e" height="250" width="250"></a>
+<a href="https://open.spotify.com/playlist/2O65CqWRBxEybS3hJV8VlI?si=b26543a913c2449f"><img src="https://i.scdn.co/image/ab67706c0000bebb12ea40fcae6fd47215e4140e" height="250" width="250">post-doom revival</a>
 
 
 <a href="https://open.spotify.com/playlist/3qtknr9a0ZCSm12roBG38w?si=54745daec70c4824"><img src="https://i.scdn.co/image/ab67706c0000bebb2cece0d8aec0b247e1ba1853" height="250" width="250"></a>
