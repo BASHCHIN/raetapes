@@ -1,3 +1,10 @@
+<style>
+div.gallery {
+  margin: 5px;
+  float: left;
+}
+</style>
+
 ## Links to raetapes
 
 
