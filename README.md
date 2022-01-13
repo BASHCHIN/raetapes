@@ -7,8 +7,8 @@
 
 
 <a href="https://open.spotify.com/playlist/2O65CqWRBxEybS3hJV8VlI?si=b26543a913c2449f"><img src="https://i.scdn.co/image/ab67706c0000bebb12ea40fcae6fd47215e4140e" align="left" height="250" width="250"></a>
-
-<div style="page-break-after: always;"></div>
+<br>
+===
 
 <a href="https://open.spotify.com/playlist/3qtknr9a0ZCSm12roBG38w?si=54745daec70c4824"><img src="https://i.scdn.co/image/ab67706c0000bebb2cece0d8aec0b247e1ba1853" align="left" height="250" width="250"></a>
 
